@@ -14,21 +14,21 @@
 ### Ramowy plan zajęć: 
 Lp | Temat | Data | Prowadzący | Uwagi
 --- | --- | --- | --- | --- 
-1 | Wprowadzenie: Git/Travis/Maven | | |
-2 | IntelliJ | ||
-3 | Clean code + SOLID | | |
-4 | Unit Testing (junit, assertj) + testowanie mutacyjne | | |
-5 | Project concept | | | Zapisy na sloty czasowe są dostępne na platformie WIKAMP
-6 | RxJava | | | 
-7 | Spring 1 | | |
-8 | Spring 2 | | |
-9 | Microservices | | |
+1 | Wprowadzenie: Git/Maven/Travis | 2.03 | ZN+MD |
+2 | IntelliJ | 9.03 | MD |
+3 | JDK Updates 8-17 | 16.03 | ZN+MD |
+4 | Unit Testing (junit5, assertj) + testowanie mutacyjne/clean code | 23.03 | ZN |
+5 | Project concept | 30.03 | ZN+MD | Zapisy na sloty czasowe są dostępne na platformie WIKAMP
+6 | RxJava | 6.04 | MD | 
+7 | Spring 1 | 13.04 | |
+8 | Spring 2 | 20.04 | |
+9 | Microservices | 27.04 | |
 10 | Design Patterns | | |
-11 | Middle project check | | | Zapisy na sloty czasowe są dostępne na platformie WIKAMP
+11 | Middle project check | ZN+MD | | Zapisy na sloty czasowe są dostępne na platformie WIKAMP
 12 | Runtime & SecurityManager | | |
 13 | Refleksja | | | -
 14 | Aspekty | | | -
-15 | Final project check | | | Zapisy na sloty czasowe są dostępne na platformie WIKAMP
+15 | Final project check | ZN+MD | | Zapisy na sloty czasowe są dostępne na platformie WIKAMP
 
 
 ### Zaliczenie:
