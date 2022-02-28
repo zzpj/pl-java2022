@@ -17,18 +17,18 @@ Lp | Temat | Data | Prowadzący | Uwagi
 1 | Wprowadzenie: Git/Maven/Travis | 2.03 | ZN+MD |
 2 | IntelliJ | 9.03 | MD |
 3 | JDK Updates 8-17 | 16.03 | ZN+MD |
-4 | Unit Testing (junit5, assertj) + testowanie mutacyjne/clean code | 23.03 | ZN |
+4 | Unit Testing (Biblioteki: Junit5, Assertj)/testowanie mutacyjne/clean code | 23.03 | ZN |
 5 | Project concept | 30.03 | ZN+MD | Zapisy na sloty czasowe są dostępne na platformie WIKAMP
 6 | RxJava | 6.04 | MD | 
-7 | Spring 1 | 13.04 | |
-8 | Spring 2 | 20.04 | |
-9 | Microservices | 27.04 | |
-10 | Design Patterns | | |
-11 | Middle project check | ZN+MD | | Zapisy na sloty czasowe są dostępne na platformie WIKAMP
-12 | Runtime & SecurityManager | | |
-13 | Refleksja | | | -
-14 | Aspekty | | | -
-15 | Final project check | ZN+MD | | Zapisy na sloty czasowe są dostępne na platformie WIKAMP
+7 | Spring 1 | 13.04 | TBD |
+8 | Spring 2 | 20.04 | TBD |
+9 | Microservices | 27.04 | TBD |
+10 | Design Patterns | 4.05 | TBD |
+11 | Middle project check | 11.05 | - | Zapisy na sloty czasowe są dostępne na platformie WIKAMP
+12 | Runtime & SecurityManager | 18.05 | TBD |
+13 | Refleksja | 25.05 | TBD | -
+14 | Aspekty | 1.06 | TBD | -
+15 | Final project check | 8.06 | - | Zapisy na sloty czasowe są dostępne na platformie WIKAMP
 
 
 ### Zaliczenie:
