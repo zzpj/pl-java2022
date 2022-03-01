@@ -21,7 +21,7 @@
 - Other: Eclipse or Netbeans
 
 **Task 4 - Maven I (+ Lombok)**
-- Familiarize with some theory - [short presentation](https://github.com/zzpj/pl-java2021/blob/master/ZZPJ2021-maven.pdf)
+- Familiarize with some theory - [short presentation](https://github.com/zzpj/pl-java2022/blob/main/intro/ZZPJ2021-maven.pdf)
 - [Download maven package](https://maven.apache.org/download.cgi?Preferred=http%3A%2F%2Fapache.mirrors.tworzy.net%2F#)
 - Set environment variable: `MAVEN_HOME`
 - Using command line or terminal, check your maven version: `mvn -v` or `mvn --version`
@@ -53,7 +53,7 @@
 - First `dev` profile is for developing purposes and reads `config.dev.properties` file 
 - Second `prod` profile is for release purpose and reads `config.prod.properties` file
 - Third properties file should be named: `config.properties`
-    - All useful code snippets could be found [here](https://github.com/zzpj/pl-java2021/blob/main/maven-helpful-snippets.md) 
+    - All useful code snippets could be found [here](https://github.com/zzpj/pl-java2022/blob/main/intro/maven-helpful-snippets.md) 
 
 
 
