@@ -27,6 +27,7 @@
 - Using command line or terminal, check your maven version: `mvn -v` or `mvn --version`
 - Generate project with the archetype „quickstart” (default): `mvn archetype:generate -DarchetypeGroupId=org.apache.maven.archetypes -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.4`
 - Import project into IDE
+- Optional way: you can create maven project structure using your IDE
 - Review `pom.xml`
 - Build package using Maven (using command line): `mvn clean install`
 - Add project's lombok dependency 
