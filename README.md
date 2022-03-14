@@ -16,8 +16,8 @@ Lp | Temat | Data | Prowadzący | Uwagi
 --- | --- | --- | --- | --- 
 1 | Wprowadzenie: Git/Maven/Travis | 2.03 | ZN+MD |
 2 | IntelliJ | 9.03 | MD |
-3 | JDK Updates 8-17 | 16.03 | ZN+MD |
-4 | Unit Testing (Biblioteki: Junit5, Assertj)/testowanie mutacyjne/clean code | 23.03 | ZN |
+3 | Unit Testing | 16.03 | ZN |
+4 | JDK Updates: from v8 to v17 | 23.03 | ZN+MD |
 5 | Project concept | 30.03 | ZN+MD | Zapisy na sloty czasowe są dostępne na platformie WIKAMP
 6 | RxJava | 6.04 | MD | 
 7 | Spring 1 | 13.04 | TBD |
