@@ -14,7 +14,7 @@
 ### Ramowy plan zajęć: 
 Lp | Temat | Data | Prowadzący | Uwagi
 --- | --- | --- | --- | --- 
-1 | Wprowadzenie: Git/Maven/Travis | 2.03 | ZN+MD |
+1 | Wprowadzenie: Git/Maven/CI | 2.03 | ZN+MD |
 2 | IntelliJ | 9.03 | MD |
 3 | Unit Testing | 16.03 | ZN |
 4 | JDK Updates: from v8 to v17 | 23.03 | ZN+MD |
