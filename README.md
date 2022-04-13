@@ -20,15 +20,15 @@ Lp | Temat | Data | Prowadzący | Uwagi
 4 | Design Patterns | 23.03 | ZN |
 5 | Project concept | 30.03 | ZN+MD | Zapisy na sloty czasowe są dostępne na platformie WIKAMP
 6 | RxJava cz.1 | 6.04 | MD | 
-7 | RxJava cz.2, JDK Update v8-17 cz.1 | 13.04 | MKr |
+7 | RxJava cz.2, JDK Update v8-17 cz.1 | 13.04 | MD+MKr |
 8 | JDK Update v8-17 cz.2 | 20.04 | MKr |
-9 | Spring 1 | 27.04 | TBD |
-10 | Spring 2 | 4.05 | TBD |
-11 | Middle project check | 11.05 | - | Zapisy na sloty czasowe są dostępne na platformie WIKAMP
+9 | Spring cz.1 | 27.04 | TBD |
+10 | Spring cz.2 | 4.05 | TBD |
+11 | Middle project check | 11.05 | ZN+MD | Zapisy na sloty czasowe są dostępne na platformie WIKAMP
 10 | Microservices | 18.05 | ZN |
-13 | Runtime, Refleksja | 25.05 | TBD | -
-14 | Aspekty | 1.06 | TBD | -
-15 | Final project check | 8.06 | - | Zapisy na sloty czasowe są dostępne na platformie WIKAMP
+13 | Runtime, Refleksja | 25.05 | Mka | 
+14 | Aspekty | 1.06 | TK |
+15 | Final project check | 8.06 | ZN+MD | Zapisy na sloty czasowe są dostępne na platformie WIKAMP
 
 
 ### Zaliczenie:
