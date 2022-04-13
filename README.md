@@ -19,14 +19,14 @@ Lp | Temat | Data | Prowadzący | Uwagi
 3 | Unit Testing | 16.03 | ZN |
 4 | Design Patterns | 23.03 | ZN |
 5 | Project concept | 30.03 | ZN+MD | Zapisy na sloty czasowe są dostępne na platformie WIKAMP
-6 | RxJava | 6.04 | MD | 
-7 | JDK Update from 8 do 17 | 13.04 | TBD |
-8 | Spring 1 | 20.04 | TBD |
-9 | Spring 2 | 27.04 | TBD |
-10 | Microservices | 4.05 | TBD |
+6 | RxJava cz.1 | 6.04 | MD | 
+7 | RxJava cz.2, JDK Update v8-17 cz.1 | 13.04 | MKr |
+8 | JDK Update v8-17 cz.2 | 20.04 | MKr |
+9 | Spring 1 | 27.04 | TBD |
+10 | Spring 2 | 4.05 | TBD |
 11 | Middle project check | 11.05 | - | Zapisy na sloty czasowe są dostępne na platformie WIKAMP
-12 | Runtime & SecurityManager | 18.05 | TBD |
-13 | Refleksja | 25.05 | TBD | -
+10 | Microservices | 18.05 | ZN |
+13 | Runtime, Refleksja | 25.05 | TBD | -
 14 | Aspekty | 1.06 | TBD | -
 15 | Final project check | 8.06 | - | Zapisy na sloty czasowe są dostępne na platformie WIKAMP
 
