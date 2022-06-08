@@ -1,8 +1,8 @@
 ## Kontener prezentacji dla przedmiotu Zaawansowane Zagadnienia Programowania w Javie - Edycja 2022
 
 ### Prowadzący 
-- Michal Dubel (michal.dubel.500@guest.p.lodz.pl)
-- Zbyszko Natkanski (zbyszko.natkanski.500@guest.p.lodz.pl )
+- Michal Dubel (michal.dubel.500@guest.p.lodz.pl priv: michal.dubel@ttpsc.pl)
+- Zbyszko Natkanski (zbyszko.natkanski.500@guest.p.lodz.pl priv: zbyszkonatkanski@gmail.com)
 - Michał Karbowańczyk (michal.karbowanczyk@p.lodz.pl)
 - Tomasz Krym (tomasz.krym@dokt.p.lodz.pl)
 
